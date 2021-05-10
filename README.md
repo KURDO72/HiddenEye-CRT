@@ -1,10 +1,10 @@
 # DUE TO BAD CODE AND HUGE AMOUNT OF ISSUES THIS VERSION OF HIDDEN EYE IS NOT GOING TO BE MAINTAINED ANYMORE! NEW VERSION OF HIDDENEYE IS GOING TO BE HERE: 
-# https://github.com/Open-Security-Group-OSG/HiddenEyeReborn
+# https://github.com/Kurdo72/HiddenEye-CRT
 
 
 
 <p align="right">
-English description | <a href="README_RU.md">Описание на русском</a>
+English | <a href="README_DE.md">Deutsch</a>
 </p>
 <p align="left">
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
@@ -23,7 +23,6 @@ English description | <a href="README_RU.md">Описание на русско�
 <p align="center">
   <a href="https://github.com/darksecdevelopers"><img title="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.png?v=103" ></a>
   <a href="https://github.com/DarkSecDevelopers/HiddenEye/releases"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
-  <a href="https://www.codefactor.io/repository/github/darksecdevelopers/hiddeneye"><img src="https://www.codefactor.io/repository/github/darksecdevelopers/hiddeneye/badge" alt="CodeFactor" /></a>
   <a href="https://www.codacy.com/manual/DarkSecDevelopers/HiddenEye?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DarkSecDevelopers/HiddenEye&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/af9fadca3cfc4de19232d0840988e121"/></a>
   <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FDarkSecDevelopers%2FHiddenEye?ref=badge_shield><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FDarkSecDevelopers%2FHiddenEye.svg?type=shield"/></a>
   <a href="https://www.python.org/dev/peps/pep-0008/"><img title="PEP8" src="https://img.shields.io/badge/code%20style-pep8-orange.svg"></a>
@@ -43,15 +42,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 
 # DEVELOPERS & CONTRIBUTORS
 
-1. ANONUD4Y (https://github.com/An0nUD4Y)
-2. USAMA ABDUL SATTAR (https://github.com/usama7628674)
-3. sTiKyt (https://github.com/sTiKyt)
-4. UNDEADSEC (https://github.com/UndeadSec)
-5. Micrafast (https://github.com/Micrafast)
-6. Moltivie (https://github.com/Moltivie)
-7. endbehavi0r (https://github.com/endbehavi0r)
-8. DarkMidus (https://github.com/DarkMidus)
-9. ****\_\_\_**** (WAITING FOR YOU)
+1. Kurdo72(https://github.com/Kurdo72) - Creator of CRT Ver
 
 # AVAILABLE TUNNELLING OPTIONS
 
@@ -69,12 +60,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 
 ## CREDIT:-
 
-- Anonud4y ( I don't remember if i have done Anything )
-- Usama ( A Most active Developer)
-- sTiKyt ( Guy Who recustomized everything )
-- UNDEADSEC (For their wonderful repo socialfish which motivated us a lot)
-- TheLinuxChoice ( For His Tools Phishing Pages )
-- Thewhiteh4t (For Nearyou & Gdrive Location Templates)
+- Kurdo72 (CRT Upgrade ver)
 
 ### TESTED ON FOLLOWING:-
 
@@ -187,10 +173,8 @@ git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEy
 **A) LOCATION (Accurately Locate Smartphones using Social Engineering) (Thanks
 To https://github.com/thewhiteh4t/seeker)**
 
-- NEAR YOU (By @thewhiteh4t )
-- GDRIVE (By @thewhiteh4t)
+- GDRIVE (By @Kurdo72)
 
-## [Check This](https://youtu.be/InSdtLhZzk4) Demonstration video to know How (Location) Social-Engineering-Tool Works.
 
 ## FOR FURTHER INSTALLATION PROCEDURE - [(CHECK INSTRUCTIONS)](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
 
