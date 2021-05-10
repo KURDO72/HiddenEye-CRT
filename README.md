@@ -1,5 +1,3 @@
-# HiddenEye-CRT
-Modern Phishing Tool with Advanced Functionality and Multiple Tunneling Systems [Android-Support-Available] - [C/R/T Version by Kurdo72]
 # DUE TO BAD CODE AND HUGE AMOUNT OF ISSUES THIS VERSION OF HIDDEN EYE IS NOT GOING TO BE MAINTAINED ANYMORE! NEW VERSION OF HIDDENEYE IS GOING TO BE HERE: 
 # https://github.com/Open-Security-Group-OSG/HiddenEyeReborn
 
