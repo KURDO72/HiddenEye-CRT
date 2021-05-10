@@ -82,7 +82,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 - sudo
 - pyngrok
 
-# FOUND A BUG ? / HAVE ANY ISSUE ? :- (Read This)
+# FOUND A BUG ? / HAVE ANY ISSUE ? : (Read This)
 
 - Check closed & solved issues/bugs before opening new.
 - Make sure your issue is related to the codes and resources of this repository.
