@@ -42,7 +42,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 
 # DEVELOPERS & CONTRIBUTORS
 
-1. Kurdo72(https://github.com/Kurdo72) - Creator of CRT Ver
+1. Kurdo72 (https://github.com/Kurdo72) - Creator of CRT Ver
 
 # AVAILABLE TUNNELLING OPTIONS
 
@@ -58,7 +58,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 
 ![Shot](https://github.com/DarkSecDevelopers/HiddenEye/blob/master/Screenshot.png)
 
-## CREDIT:-
+## CREDITS:
 
 - Kurdo72 (CRT Upgrade ver)
 
