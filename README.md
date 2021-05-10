@@ -1,4 +1,4 @@
-# DUE TO BAD CODE AND HUGE AMOUNT OF ISSUES THIS VERSION OF HIDDEN EYE IS NOT GOING TO BE MAINTAINED ANYMORE! NEW VERSION OF HIDDENEYE IS GOING TO BE HERE: 
+# DUE TO BAD CODE AND HUGE AMOUNT OF ISSUES THIS VERSION OF HIDDENEYE IS NOT GOING TO BE MAINTAINED ANYMORE! NEW VERSION OF HIDDENEYE-CRT IS GOING TO BE HERE: 
 # https://github.com/Kurdo72/HiddenEye-CRT
 
 
@@ -34,7 +34,7 @@ English | <a href="README_DE.md">Deutsch</a>
   TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 </p>
 
-The use of the HiddenEye & its resources/phishing-pages is **COMPLETE
+The use of the HiddenEye-CRT & its resources/phishing-pages is **COMPLETE
 RESPONSIBILITY of the END-USER**. Developers assume NO liability and are NOT
 responsible for any misuse or damage caused by this program. Also we inform you
 that some of your your actions may be **ILLEGAL** and you **CAN NOT** use this
@@ -111,7 +111,7 @@ software to test person or company without **WRITTEN PERMISSION** from them.
 **4) ANDROID SUPPORT**
 
 - We care about Android Users, So now we have came with two ways to run
-  HiddenEye in Android Devices.
+  HiddenEye CRT in Android Devices.
 
 **(A) UserLand App**
 
