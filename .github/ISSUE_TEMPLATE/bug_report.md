@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve HiddenEye (CRT)
 title: "[BUG]"
 labels: not-confirmed
 assignees: ''
@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Device (please complete the following information):**
  - OS: [e.g. iOS]
  - Python [e.g. 3.6.1]
- - HiddenEye Version [e.g. 1.0.22]
+ - HiddenEye Version [e.g. CRT 7.2]
 
 
 **Additional context**

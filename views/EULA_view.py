@@ -21,7 +21,7 @@ class EULAView:
             "eula_enter_to_continue": _('Enter: "I accept EULA" to continue'),
             "eula_input_prompt": _("HiddenEye EULA>> "),
             "eula_full_disclaimer": _('''
-The use of the HiddenEye & its resources/phishing-pages is COMPLETE RESPONSIBILITY of the END-USER.
+The use of the HiddenEye CRT & its resources/phishing-pages is COMPLETE RESPONSIBILITY of the END-USER.
 Developers assume NO liability and are NOT responsible for any damage caused by this program.
 Also we want to inform you that some of your actions may be ILLEGAL and you CAN NOT use this
 software to test device, company or any other type of target without WRITTEN PERMISSION from them.''')
